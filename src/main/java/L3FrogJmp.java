@@ -1,4 +1,4 @@
-public class L4FrogJmp {
+public class L3FrogJmp {
 //https://app.codility.com/demo/results/trainingYXUGGK-KMA/?showingAll=1
 
     public static void main(String[] args) {
@@ -8,7 +8,6 @@ public class L4FrogJmp {
         int D = 30;
 
         int value = Solution.solution(X, Y, D);
-
     }
 
 
