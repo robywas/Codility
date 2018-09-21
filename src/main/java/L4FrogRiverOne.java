@@ -22,8 +22,7 @@ public class L4FrogRiverOne {
 
 
             HashSet<Integer> mySet = new HashSet<>();
-            int i = 0;
-            for (i = 0; i < A.length; i++) {
+            for (int i = 0; i < A.length; i++) {
                 if (A[i] <= X) {
                     mySet.add(A[i]);
                     if (mySet.size() == X)
